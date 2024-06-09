@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I am a Mobile Developer. 👋
 
 <!--
 **neolabs120-mobile/neolabs120-mobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neolabs120-mobile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
