@@ -45,15 +45,6 @@ From requirements analysis and app planning to implementation and release, I dev
 - Renewed a travel app through refactoring, RxJava2-based asynchronous processing, and network architecture improvements.
 - Built a native Android app for pet care with Retrofit2-based client-server communication.
 
-## Selected Projects
-
-| Project | What I built | Technologies |
-| --- | --- | --- |
-| **Virtual e-Amusement** · Jul 2024 | An NFC-based virtual arcade card app using MVVM and declarative UI. | Kotlin · Jetpack Compose · NFC |
-| **Coinminer Monitor** · Jul 2022 | A cross-platform dashboard visualizing live mining status through an Ethereum mining API. | Flutter · Dart |
-| **Passcode** · Jan 2021 | Native Android and iOS account/password management apps with encrypted local storage. | Kotlin · Swift · Room |
-| **Kok!** · Sep 2018 | A location-based social app, from the Android client to the backend. | Kotlin · Node.js · MongoDB |
-
 ## Toolkit
 
 | Area | Technologies |

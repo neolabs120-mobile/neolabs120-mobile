@@ -45,15 +45,6 @@ Android·iOS 앱을 개발하고, 경량 AI 모델을 모바일 환경에 통합
 - 여행 앱 리뉴얼 과정에서 코드 리팩토링, RxJava2 기반 비동기 처리, 네트워크 구조 개선을 진행했습니다.
 - Retrofit2 기반 클라이언트·서버 통신 구조를 갖춘 반려견 관리용 Android 네이티브 앱을 개발했습니다.
 
-## 주요 프로젝트
-
-| 프로젝트 | 구현 내용 | 사용 기술 |
-| --- | --- | --- |
-| **가상 e-Amusement** · 2024.07 | NFC 기반 오락실 가상 카드 앱. MVVM 구조와 선언형 UI를 적용했습니다. | Kotlin · Jetpack Compose · NFC |
-| **Coinminer 모니터** · 2022.07 | 이더리움 채굴 API와 연동해 실시간 채굴 현황을 시각화하는 크로스플랫폼 대시보드 앱. | Flutter · Dart |
-| **Passcode** · 2021.01 | 로컬 저장소 암호화를 적용한 Android·iOS 네이티브 계정·패스워드 관리 앱. | Kotlin · Swift · Room |
-| **Kok!** · 2018.09 | Android 클라이언트부터 백엔드까지 설계·구현한 위치 기반 SNS. | Kotlin · Node.js · MongoDB |
-
 ## 사용 기술
 
 | 분야 | 기술 |
