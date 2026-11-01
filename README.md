@@ -1,8 +1,11 @@
 <div align="center">
 
+[**English**](https://github.com/neolabs120-mobile) &nbsp; · &nbsp; [한국어](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/README.ko.md)
+
 # Taeuk Kim · 김태욱
 
-**Mobile Developer · On-device AI**
+**Mobile Developer · On-device AI**<br/>
+Undergraduate student at **Sungkyunkwan University**
 
 Building Android & iOS apps and bringing efficient AI models onto mobile devices.
 
@@ -19,7 +22,7 @@ Building Android & iOS apps and bringing efficient AI models onto mobile devices
 
 ## About
 
-I'm an undergraduate research intern at **Sungkyunkwan University** and a **freelance mobile developer since July 2018**. My work spans native mobile apps, legacy code refactoring, and on-device AI integration.
+I've worked as a **freelance mobile developer since July 2018**. My work spans native mobile apps, legacy code refactoring, and on-device AI integration.
 
 I'm interested in **efficient ML, model compression and quantization, mobile systems and sensing, and human-centered security**.
 
