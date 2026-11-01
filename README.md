@@ -1,48 +1,80 @@
-## Hi there! I am a Mobile Developer. 👋
-
-I work with **Android, Java, and Kotlin**.<br/>
-I enjoy tracking down UI bugs, improving readability, and refining fixes through code review.
-
 <div align="center">
 
-#### 📋 Languages & Tools
+# Taeuk Kim · 김태욱
 
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black">
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge">
+**Mobile Developer · On-device AI**
+
+Building Android & iOS apps and bringing efficient AI models onto mobile devices.
+
+[Portfolio](https://neolabs123.notion.site/c1f393f10ca54b7da879a7914ad58b3b?v=17c1fb4a83024f13b25d88517118b286&source=copy_link) &nbsp; · &nbsp; [Open Source Contributions](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.md)
+
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<br/>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
 </div>
 
-### 🌱 Open Source Contributions
-
-Recent bug fixes merged into open-source Android projects:
-
-| Project | Contribution | Pull Request |
-| --- | --- | --- |
-| **Etar Calendar** | Make the Agenda event details background follow the current theme. | [#2207 · Merged](https://github.com/Etar-Group/Etar-Calendar/pull/2207) |
-| **Unciv** | Show available specialist slots in the city building list. | [#15907 · Merged](https://github.com/yairm210/Unciv/pull/15907) |
-
-<details>
-<summary>More pull requests</summary>
-
-- **AntennaPod** — Fix skip-silence settings when editing multiple subscriptions. [#8861](https://github.com/AntennaPod/AntennaPod/pull/8861)
-- **AntennaPod** — Keep the sort direction visible when button labels are long. [#8862](https://github.com/AntennaPod/AntennaPod/pull/8862)
-- **Markor** — Use a black background in view mode for the Black theme. [#2936](https://github.com/gsantner/markor/pull/2936)
-
-</details>
-
-[All pull requests](https://github.com/pulls?q=is%3Apr+author%3Aneolabs120-mobile) · [Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Aneolabs120-mobile+is%3Amerged)
-
 ---
 
-<div align="center">
+## About
 
-#### 📊 Problem Solving
+I'm an undergraduate research intern at **Sungkyunkwan University** and a **freelance mobile developer since July 2018**. My work spans native mobile apps, legacy code refactoring, and on-device AI integration.
+
+I'm interested in **efficient ML, model compression and quantization, mobile systems and sensing, and human-centered security**.
+
+## Research
+
+**On-device Voice Phishing & Smishing Detection**<br/>
+Undergraduate Research Intern · 성균관대학교 박진영 교수 연구실
+
+- Integrated Korean streaming speech recognition and lightweight text classifiers into an Android app, connecting call transcripts and SMS input to risk assessment, user alerts, and detection history.
+- Built the streaming pipeline with **sherpa-onnx / Zipformer**, and experimented with **HyperCLOVA-X 0.5B → DistilKoBERT** knowledge distillation and **TorchScript Lite** export.
+- On a separate test set, the student model achieved **AUC 0.991** versus **0.995** for the teacher. Detection sensitivity and changing data remain follow-up work for deployment.
+
+## Experience
+
+**Freelance Mobile Application Developer** · Independent<br/>
+July 2018 – Present
+
+From requirements analysis and app planning to implementation and release, I develop mobile apps and improve existing codebases.
+
+- Renewed a travel app through refactoring, RxJava2-based asynchronous processing, and network architecture improvements.
+- Built a native Android app for pet care with Retrofit2-based client-server communication.
+
+## Selected Projects
+
+| Project | What I built | Technologies |
+| --- | --- | --- |
+| **Virtual e-Amusement** · Jul 2024 | An NFC-based virtual arcade card app using MVVM and declarative UI. | Kotlin · Jetpack Compose · NFC |
+| **Coinminer Monitor** · Jul 2022 | A cross-platform dashboard visualizing live mining status through an Ethereum mining API. | Flutter · Dart |
+| **Passcode** · Jan 2021 | Native Android and iOS account/password management apps with encrypted local storage. | Kotlin · Swift · Room |
+| **Kok!** · Sep 2018 | A location-based social app, from the Android client to the backend. | Kotlin · Node.js · MongoDB |
+
+## Toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Mobile** | Android · iOS · Kotlin · Swift · Jetpack Compose · Flutter · Dart |
+| **ML & Inference** | Python · PyTorch · Hugging Face Transformers · ONNX · sherpa-onnx · TorchScript Lite |
+| **Systems & Data** | C · Java · Room · RxJava2 · Retrofit2 · Node.js · MongoDB |
+
+## Education
+
+| University | Program | Period |
+| --- | --- | --- |
+| **Sungkyunkwan University** | B.S. in Computer Education, in progress · Transfer student | Mar 2026 – Present |
+| **Kyungpook National University** | Computer Science studies | Mar – Jun 2025 |
+
+Sungkyunkwan University GPA: **4.14 / 4.5 overall** · **4.25 / 4.5 major**.
+
+<details>
+<summary>Problem solving</summary>
+
+<div align="center">
 
 [![Solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=kammat1)](https://github.com/kookjd7759/solvedac-readme-stats)
 
 </div>
+
+</details>
