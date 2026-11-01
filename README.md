@@ -29,7 +29,8 @@ I'm interested in **efficient ML, model compression and quantization, mobile sys
 ## Research
 
 **On-device Voice Phishing & Smishing Detection**<br/>
-Undergraduate Research Intern · 성균관대학교 박진영 교수 연구실
+Undergraduate Research Intern · 성균관대학교 박진영 교수 연구실<br/>
+May 2026 – Present
 
 - Integrated Korean streaming speech recognition and lightweight text classifiers into an Android app, connecting call transcripts and SMS input to risk assessment, user alerts, and detection history.
 - Built the streaming pipeline with **sherpa-onnx / Zipformer**, and experimented with **HyperCLOVA-X 0.5B → DistilKoBERT** knowledge distillation and **TorchScript Lite** export.
