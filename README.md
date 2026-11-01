@@ -9,7 +9,7 @@ Undergraduate student at **Sungkyunkwan University**
 
 Building Android & iOS apps and bringing efficient AI models onto mobile devices.
 
-[Portfolio](https://neolabs123.notion.site/c1f393f10ca54b7da879a7914ad58b3b?v=17c1fb4a83024f13b25d88517118b286&source=copy_link) &nbsp; · &nbsp; [Open Source Contributions](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.md)
+[Portfolio](https://neolabs123.notion.site/Mobile-Developer-480371983f3c42c5bb0cca3377e107ab?source=copy_link) &nbsp; · &nbsp; [Open Source Contributions](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.md)
 
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">

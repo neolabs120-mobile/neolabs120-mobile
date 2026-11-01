@@ -9,7 +9,7 @@
 
 Android·iOS 앱을 개발하고, 경량 AI 모델을 모바일 환경에 통합합니다.
 
-[포트폴리오](https://neolabs123.notion.site/c1f393f10ca54b7da879a7914ad58b3b?v=17c1fb4a83024f13b25d88517118b286&source=copy_link) &nbsp; · &nbsp; [오픈소스 기여](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.ko.md)
+[포트폴리오](https://neolabs123.notion.site/Mobile-Developer-480371983f3c42c5bb0cca3377e107ab?source=copy_link) &nbsp; · &nbsp; [오픈소스 기여](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.ko.md)
 
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
