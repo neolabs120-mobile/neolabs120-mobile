@@ -67,7 +67,7 @@ From requirements analysis and app planning to implementation and release, I dev
 | University | Program | Period |
 | --- | --- | --- |
 | **Sungkyunkwan University** | B.S. in Computer Education, in progress · Transfer student | Mar 2026 – Present |
-| **Kyungpook National University** | Computer Science studies | Mar – Jun 2025 |
+| **Kyungpook National University** | Computer Science | Mar – Jun 2025 |
 
 Sungkyunkwan University GPA: **4.14 / 4.5 overall** · **4.25 / 4.5 major**.
 
