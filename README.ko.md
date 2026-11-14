@@ -2,14 +2,13 @@
 
 [English](https://github.com/neolabs120-mobile) &nbsp; · &nbsp; [**한국어**](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/README.ko.md)
 
-# 김태욱 · Taeuk Kim
+# neolabs120-mobile
 
-**모바일 개발자 · 온디바이스 AI**<br/>
-**성균관대학교 재학 중**
+**모바일 개발자 · 온디바이스 AI**
 
 Android·iOS 앱을 개발하고, 경량 AI 모델을 모바일 환경에 통합합니다.
 
-[포트폴리오](https://neolabs123.notion.site/Mobile-Developer-480371983f3c42c5bb0cca3377e107ab?source=copy_link) &nbsp; · &nbsp; [오픈소스 기여](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.ko.md)
+[오픈소스 기여](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.ko.md)
 
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
@@ -29,7 +28,7 @@ Android·iOS 앱을 개발하고, 경량 AI 모델을 모바일 환경에 통합
 ## 연구 경험
 
 **온디바이스 보이스피싱·스미싱 탐지**<br/>
-학부연구생 인턴 · 성균관대학교 박진영 교수 연구실<br/>
+학부연구생 인턴 · 대학 연구실<br/>
 2026.05 – 현재
 
 - 한국어 Streaming STT와 경량 텍스트 분류 모델을 Android 앱에 통합하고, 통화 전사·SMS 입력부터 위험도 판단, 사용자 경고, 탐지 이력 저장까지 연결했습니다.
@@ -53,22 +52,3 @@ Android·iOS 앱을 개발하고, 경량 AI 모델을 모바일 환경에 통합
 | **모바일** | Android · iOS · Kotlin · Swift · Jetpack Compose · Flutter · Dart |
 | **ML·추론** | Python · PyTorch · Hugging Face Transformers · ONNX · sherpa-onnx · TorchScript Lite |
 | **시스템·데이터** | C · Java · Room · RxJava2 · Retrofit2 · Node.js · MongoDB |
-
-## 학력
-
-| 학교 | 전공·학적 | 기간 |
-| --- | --- | --- |
-| **성균관대학교** | 컴퓨터교육과 학사과정 재학 · 편입 | 2026.03 – 현재 |
-
-성균관대학교 학점: **전체 4.14 / 4.5** · **전공 4.25 / 4.5**.
-
-<details>
-<summary>알고리즘 문제 풀이</summary>
-
-<div align="center">
-
-[![solved.ac 통계](https://solvedac-readme-stats.vercel.app/api?handle=kammat1)](https://github.com/kookjd7759/solvedac-readme-stats)
-
-</div>
-
-</details>

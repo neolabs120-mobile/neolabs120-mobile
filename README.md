@@ -2,14 +2,13 @@
 
 [**English**](https://github.com/neolabs120-mobile) &nbsp; · &nbsp; [한국어](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/README.ko.md)
 
-# Taeuk Kim · 김태욱
+# neolabs120-mobile
 
-**Mobile Developer · On-device AI**<br/>
-Undergraduate student at **Sungkyunkwan University**
+**Mobile Developer · On-device AI**
 
 Building Android & iOS apps and bringing efficient AI models onto mobile devices.
 
-[Portfolio](https://neolabs123.notion.site/Mobile-Developer-480371983f3c42c5bb0cca3377e107ab?source=copy_link) &nbsp; · &nbsp; [Open Source Contributions](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.md)
+[Open Source Contributions](https://github.com/neolabs120-mobile/neolabs120-mobile/blob/main/OPEN_SOURCE.md)
 
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
@@ -29,7 +28,7 @@ I'm interested in **efficient ML, model compression and quantization, mobile sys
 ## Research
 
 **On-device Voice Phishing & Smishing Detection**<br/>
-Undergraduate Research Intern · 성균관대학교 박진영 교수 연구실<br/>
+Undergraduate Research Intern · University research lab<br/>
 May 2026 – Present
 
 - Integrated Korean streaming speech recognition and lightweight text classifiers into an Android app, connecting call transcripts and SMS input to risk assessment, user alerts, and detection history.
@@ -53,22 +52,3 @@ From requirements analysis and app planning to implementation and release, I dev
 | **Mobile** | Android · iOS · Kotlin · Swift · Jetpack Compose · Flutter · Dart |
 | **ML & Inference** | Python · PyTorch · Hugging Face Transformers · ONNX · sherpa-onnx · TorchScript Lite |
 | **Systems & Data** | C · Java · Room · RxJava2 · Retrofit2 · Node.js · MongoDB |
-
-## Education
-
-| University | Program | Period |
-| --- | --- | --- |
-| **Sungkyunkwan University** | B.S. in Computer Education, in progress · Transfer student | Mar 2026 – Present |
-
-Sungkyunkwan University GPA: **4.14 / 4.5 overall** · **4.25 / 4.5 major**.
-
-<details>
-<summary>Problem solving</summary>
-
-<div align="center">
-
-[![Solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=kammat1)](https://github.com/kookjd7759/solvedac-readme-stats)
-
-</div>
-
-</details>
